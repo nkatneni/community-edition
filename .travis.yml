@@ -12,6 +12,7 @@ matrix:
       sudo: required
       services: docker
       language: generic
+      language: telugu
 branches:
   only:
     - master
